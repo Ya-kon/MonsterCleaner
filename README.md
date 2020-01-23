@@ -3,7 +3,7 @@ CAPCOMハッカソン2019
 最優秀賞 受賞
 
 # Play
-![Play](https://github.com/Ya-kon/MonsterCleaner/blob/master/Picutures/MonsterCleaner_Movie.gif)
+![Play](https://github.com/Ya-kon/MonsterCleaner/blob/master/Submitted/Picutures/MonsterCleaner_Movie.gif)
 
 # Picutures
 ![Title](https://github.com/Ya-kon/MonsterCleaner/blob/master/Submitted/Picutures/MonsterCleaner_Title.jpg)  
