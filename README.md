@@ -1,5 +1,5 @@
 # MonsterCleaner 提出作品
-CAPCOMハッカソン2019  
+ハッカソン2019  
 最優秀賞 受賞
 
 # 1.Play
